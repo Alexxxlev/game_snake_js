@@ -1,1 +1,1 @@
-https://alexxxlev.github.io/snake-js/
+https://alexxxlev.github.io/game_snake_js/
